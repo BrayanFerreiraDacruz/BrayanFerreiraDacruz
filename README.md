@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o Brayan!
 
 <div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BrayanFerreiraDacruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <!-- Stats Card (Alternative Provider for better stability) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BrayanFerreiraDacruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <!-- Top Langs Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanFerreiraDacruz&layout=compact&theme=dark&hide=html,css&cache_seconds=1800" alt="Top Languages" />
+  <!-- Streak Stats (Very reliable) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanFerreiraDacruz&theme=dark" alt="GitHub Streak" />
 </div>
 
 ### 🚀 Sobre Mim
