@@ -28,7 +28,7 @@ Sou um **Desenvolvedor Backend** focado em construir sistemas robustos e escalá
 - **🍐 Pêra SaaS:** Gestão inteligente com IA e WhatsApp.
 - **🏦 BankHub:** Core banking robusto com Clean Architecture (Java/Spring).
 - **📊 FinanceFlow:** Controle financeiro dinâmico (Python/Flask).
-- **📈 MagnaData:** Processamento massivo de dados (C#/.NET).
+- **📈 Python IA:** IA Feita em Python, para decisões(Python).
 
 ---
 
