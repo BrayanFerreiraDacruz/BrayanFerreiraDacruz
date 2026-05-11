@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Brayan!
+# Bem Vindo, eu sou o Brayan!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrayanFerreiraDacruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
