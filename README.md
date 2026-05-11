@@ -1,7 +1,11 @@
-# Bem Vindo, eu sou o Brayan!
+# 👋 Olá, eu sou o Brayan!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrayanFerreiraDacruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BrayanFerreiraDacruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <br />
+  <!-- Top Langs Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanFerreiraDacruz&layout=compact&theme=dark&hide=html,css&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ### 🚀 Sobre Mim
@@ -28,7 +32,7 @@ Sou um **Desenvolvedor Backend** focado em construir sistemas robustos e escalá
 - **🍐 Pêra SaaS:** Gestão inteligente com IA e WhatsApp.
 - **🏦 BankHub:** Core banking robusto com Clean Architecture (Java/Spring).
 - **📊 FinanceFlow:** Controle financeiro dinâmico (Python/Flask).
-- **📈 Python IA:** IA Feita em Python, para decisões(Python).
+- **📈 MagnaData:** Processamento massivo de dados (C#/.NET).
 
 ---
 
