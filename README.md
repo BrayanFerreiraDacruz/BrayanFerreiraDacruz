@@ -1,11 +1,6 @@
 # 👋 Olá, eu sou o Brayan!
 
-<div align="center">
-  <!-- Stats Card (Alternative Provider for better stability) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BrayanFerreiraDacruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <!-- Streak Stats (Very reliable) -->
-  
-</div>
+
 
 ### 🚀 Sobre Mim
 Sou um **Desenvolvedor Backend** focado em construir sistemas robustos e escaláveis. Minha paixão é transformar arquiteturas complexas em soluções confiáveis, utilizando **Métodos Ágeis** e as melhores práticas de engenharia.
