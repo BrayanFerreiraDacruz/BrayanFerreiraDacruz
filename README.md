@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BrayanFerreiraDacruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
   <!-- Streak Stats (Very reliable) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanFerreiraDacruz&theme=dark" alt="GitHub Streak" />
+  
 </div>
 
 ### 🚀 Sobre Mim
